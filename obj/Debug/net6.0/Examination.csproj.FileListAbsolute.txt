@@ -1,0 +1,45 @@
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\bin\Debug\net6.0\Examination.exe
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\bin\Debug\net6.0\Examination.deps.json
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\bin\Debug\net6.0\Examination.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\bin\Debug\net6.0\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\bin\Debug\net6.0\Examination.pdb
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\refint\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.pdb
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\Examination.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\C# Exam\Exam\obj\Debug\net6.0\ref\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\refint\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.pdb
+C:\Users\Moustafa\Desktop\.NET\Exam\bin\Debug\net6.0\Examination.exe
+C:\Users\Moustafa\Desktop\.NET\Exam\bin\Debug\net6.0\Examination.deps.json
+C:\Users\Moustafa\Desktop\.NET\Exam\bin\Debug\net6.0\Examination.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\Exam\bin\Debug\net6.0\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\Exam\bin\Debug\net6.0\Examination.pdb
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\Examination.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\Exam\obj\Debug\net6.0\ref\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\bin\Debug\net6.0\Examination.exe
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\bin\Debug\net6.0\Examination.deps.json
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\bin\Debug\net6.0\Examination.runtimeconfig.json
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\bin\Debug\net6.0\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\bin\Debug\net6.0\Examination.pdb
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.csproj.AssemblyReference.cache
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.AssemblyInfoInputs.cache
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.AssemblyInfo.cs
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.csproj.CoreCompileInputs.cache
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\refint\Examination.dll
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.pdb
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\Examination.genruntimeconfig.cache
+C:\Users\Moustafa\Desktop\.NET\03 Object Oriented Programming\ExamLast\obj\Debug\net6.0\ref\Examination.dll
